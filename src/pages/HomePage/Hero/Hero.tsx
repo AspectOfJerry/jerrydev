@@ -241,6 +241,7 @@ export default function Hero() {
     return (
         <>
             <div className="hero">
+                <p style={{opacity: "50%", fontSize: "135%"}}>!!! Major refactor in progress. Website should be back up in a few days. !!!</p>
                 <div className="hero_container">
                     <div className="text-block">
                         <h1 className="hero_hero-text">Hello</h1>

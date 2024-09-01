@@ -26,7 +26,6 @@ const router = createBrowserRouter([
         path: "/",
         element: <>
             <HomePage />
-            <p style={{fontSize: "150%"}}>!!! Major refactor in progress. Website should be back up in a few days. !!!</p>
         </>
     },
     {
